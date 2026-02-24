@@ -21,7 +21,7 @@ env/
 htmlcov/
 
 # Model artifacts
-models/
+/models/
 
 # IDE
 .vscode/
